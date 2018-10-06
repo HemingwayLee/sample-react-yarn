@@ -12,3 +12,7 @@ yarn start
 yarn 
 yarn build
 ```
+
+# Check the result
+
+open browser: [http://localhost:3000](http://localhost:3000)
